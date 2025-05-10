@@ -38,6 +38,9 @@ The binary pattern for each digit is written in hexadecimal. For example:
 | 8     | 0x7F     | 0111 1111  |
 | 9     | 0x67     | 0110 0111  |
 
+## 📸 Project Media
+
+![7_segment_display_output](https://github.com/user-attachments/assets/1a396c0f-4f51-4dc7-9958-8dce5d1e89e9)
 
 
 ## 🔄 Future Enhancements
@@ -46,8 +49,15 @@ The binary pattern for each digit is written in hexadecimal. For example:
 - Add button-controlled increment/decrement.
 - Interface multiple 7-segment displays for multi-digit output.
 
-## 🧑‍💻 Author
+## 👨‍💻 Developed By
 
+Vamsi T 
+Graduate Engineer (ECE) 
+vamsithummaluri@gmail.com 
 
 ---
+
+## 🛠 License
+
+This project is licensed under the MIT License - feel free to use and modify as needed.
 
